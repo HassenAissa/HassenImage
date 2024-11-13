@@ -26,4 +26,5 @@ bitsandbytes==0.42.0
 datasets==2.18.0
 unsloth
 torch
+huggingface_hub
 dlabutils @ git+https://github.com/epfl-dlab/dlab-utils.git
