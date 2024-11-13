@@ -24,6 +24,5 @@ peft==0.11.1
 accelerate==0.30.1
 bitsandbytes==0.42.0
 datasets==2.18.0
-unsloth
 spacy
 dlabutils @ git+https://github.com/epfl-dlab/dlab-utils.git
