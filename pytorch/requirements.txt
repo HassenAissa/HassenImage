@@ -27,4 +27,6 @@ spacy
 numpy
 textstat
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
+pip install numpy==1.26.4
+
 dlabutils @ git+https://github.com/epfl-dlab/dlab-utils.git
